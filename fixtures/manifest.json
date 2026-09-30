@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "clock": "2026-06-01T09:00:00.000Z",
+  "domain": "fictional-sd-worx-customer-files",
+  "languages": [
+    "nl",
+    "fr",
+    "en",
+    "de"
+  ]
+}

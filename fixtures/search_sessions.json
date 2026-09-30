@@ -1,0 +1,179 @@
+[
+  {
+    "searchId": "search-loonbrief-a",
+    "query": "loonbrief",
+    "language": "nl",
+    "opened": [
+      {
+        "documentId": "doc-houtwerf-dwell-memo",
+        "dwellMs": 480000
+      },
+      {
+        "documentId": "doc-houtwerf-payroll-report",
+        "dwellMs": 240000
+      },
+      {
+        "documentId": "doc-houtwerf-absence-overview",
+        "dwellMs": 5000
+      },
+      {
+        "documentId": "doc-houtwerf-payroll-note",
+        "dwellMs": 2000
+      }
+    ]
+  },
+  {
+    "searchId": "search-loonbrief-b",
+    "query": "Loonbrief",
+    "language": "nl",
+    "opened": [
+      {
+        "documentId": "doc-houtwerf-payroll-report",
+        "dwellMs": 180000
+      },
+      {
+        "documentId": "doc-houtwerf-dwell-memo",
+        "dwellMs": 150000
+      },
+      {
+        "documentId": "doc-keller-primary-source",
+        "dwellMs": 3500
+      },
+      {
+        "documentId": "doc-houtwerf-payroll-note",
+        "dwellMs": 2500
+      }
+    ]
+  },
+  {
+    "searchId": "search-absence-a",
+    "query": "ziektebrief verlof",
+    "language": "nl",
+    "opened": [
+      {
+        "documentId": "doc-houtwerf-absence-overview",
+        "dwellMs": 420000
+      },
+      {
+        "documentId": "doc-houtwerf-payroll-report",
+        "dwellMs": 12000
+      },
+      {
+        "documentId": "doc-houtwerf-payroll-note",
+        "dwellMs": 1800
+      }
+    ]
+  },
+  {
+    "searchId": "search-fiche-a",
+    "query": "fiche de paie",
+    "language": "fr",
+    "opened": [
+      {
+        "documentId": "doc-clarin-payslip-explainer",
+        "dwellMs": 300000
+      },
+      {
+        "documentId": "doc-clarin-peer-review",
+        "dwellMs": 90000
+      },
+      {
+        "documentId": "doc-clarin-contract-amendment",
+        "dwellMs": 4000
+      }
+    ]
+  },
+  {
+    "searchId": "search-zeit-a",
+    "query": "Zeiterfassung",
+    "language": "de",
+    "opened": [
+      {
+        "documentId": "doc-keller-time-export",
+        "dwellMs": 210000
+      },
+      {
+        "documentId": "doc-keller-primary-source",
+        "dwellMs": 8000
+      }
+    ]
+  },
+  {
+    "searchId": "search-meal-a",
+    "query": "meal voucher",
+    "language": "en",
+    "opened": [
+      {
+        "documentId": "doc-northmill-benefits-plan",
+        "dwellMs": 180000
+      },
+      {
+        "documentId": "doc-northmill-poll-dataset",
+        "dwellMs": 6000
+      }
+    ]
+  },
+  {
+    "searchId": "search-avenant-a",
+    "query": "avenant",
+    "language": "fr",
+    "opened": [
+      {
+        "documentId": "doc-clarin-contract-amendment",
+        "dwellMs": 260000
+      }
+    ]
+  },
+  {
+    "searchId": "search-dossier-a",
+    "query": "personeelsdossier",
+    "language": "nl",
+    "opened": [
+      {
+        "documentId": "doc-houtwerf-employee-file",
+        "dwellMs": 140000
+      }
+    ]
+  },
+  {
+    "searchId": "search-withholding-a",
+    "query": "withholding",
+    "language": "en",
+    "opened": [
+      {
+        "documentId": "doc-northmill-withholding",
+        "dwellMs": 100000
+      },
+      {
+        "documentId": "doc-houtwerf-payroll-report",
+        "dwellMs": 20000
+      }
+    ]
+  },
+  {
+    "searchId": "search-lohnsteuer-a",
+    "query": "Lohnsteuer",
+    "language": "de",
+    "opened": [
+      {
+        "documentId": "doc-keller-lohnsteuer",
+        "dwellMs": 90000
+      }
+    ]
+  },
+  {
+    "searchId": "search-brutoloon-a",
+    "query": "brutoloon nettoloon",
+    "language": "nl",
+    "opened": [
+      {
+        "documentId": "doc-houtwerf-payroll-report",
+        "dwellMs": 200000
+      },
+      {
+        "documentId": "doc-houtwerf-payroll-note",
+        "dwellMs": 1000
+      }
+    ]
+  }
+]

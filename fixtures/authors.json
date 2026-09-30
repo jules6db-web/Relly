@@ -1,0 +1,86 @@
+[
+  {
+    "id": "author-mira-veldhuis",
+    "displayName": "Mira Veldhuis",
+    "expertise": 0.92,
+    "authorReliability": 0.88,
+    "reliableProfile": true
+  },
+  {
+    "id": "author-joost-pellikaan",
+    "displayName": "Joost Pellikaan",
+    "expertise": 0.5,
+    "authorReliability": 0.5,
+    "reliableProfile": false
+  },
+  {
+    "id": "author-annelies-droogmans",
+    "displayName": "Annelies Droogmans",
+    "expertise": 0.62,
+    "authorReliability": 0.58,
+    "reliableProfile": false
+  },
+  {
+    "id": "author-karel-bieseman",
+    "displayName": "Karel Bieseman",
+    "expertise": 0.45,
+    "authorReliability": 0.4,
+    "reliableProfile": false
+  },
+  {
+    "id": "author-helena-quist",
+    "displayName": "Helena Quist",
+    "expertise": 0.9,
+    "authorReliability": 0.85,
+    "reliableProfile": true
+  },
+  {
+    "id": "author-noor-alderliesten",
+    "displayName": "Noor Alderliesten",
+    "expertise": 0.5,
+    "authorReliability": 0.5,
+    "reliableProfile": false
+  },
+  {
+    "id": "author-camille-houdart",
+    "displayName": "Camille Houdart",
+    "expertise": 0.91,
+    "authorReliability": 0.86,
+    "reliableProfile": true
+  },
+  {
+    "id": "author-ines-marchal",
+    "displayName": "Inès Marchal",
+    "expertise": 0.78,
+    "authorReliability": 0.74,
+    "reliableProfile": true
+  },
+  {
+    "id": "author-lukas-brenner",
+    "displayName": "Lukas Brenner",
+    "expertise": 0.7,
+    "authorReliability": 0.66,
+    "reliableProfile": false
+  },
+  {
+    "id": "author-owen-blake",
+    "displayName": "Owen Blake",
+    "expertise": 0.73,
+    "authorReliability": 0.69,
+    "reliableProfile": false
+  },
+  {
+    "id": "author-sanne-korteweg",
+    "displayName": "Sanne Korteweg",
+    "expertise": 0.8,
+    "authorReliability": 0.77,
+    "reliableProfile": true
+  },
+  {
+    "id": "author-elodie-vasseur",
+    "displayName": "Élodie Vasseur",
+    "expertise": 0.84,
+    "authorReliability": 0.8,
+    "reliableProfile": true
+  }
+]

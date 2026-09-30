@@ -1,0 +1,187 @@
+[
+  {
+    "id": "payroll",
+    "nouns": {
+      "nl": [
+        "loonbrief",
+        "brutoloon",
+        "nettoloon",
+        "loonrun"
+      ],
+      "fr": [
+        "fiche",
+        "paie",
+        "brut",
+        "net",
+        "cotisation"
+      ],
+      "en": [
+        "payslip",
+        "payroll",
+        "gross",
+        "net"
+      ],
+      "de": [
+        "gehaltsabrechnung",
+        "lohnabrechnung",
+        "brutto",
+        "netto",
+        "lohnlauf"
+      ]
+    }
+  },
+  {
+    "id": "absence",
+    "nouns": {
+      "nl": [
+        "ziektebrief",
+        "verlof",
+        "afwezigheid",
+        "ziekte"
+      ],
+      "fr": [
+        "maladie",
+        "congé",
+        "absence",
+        "arrêt"
+      ],
+      "en": [
+        "illness",
+        "leave",
+        "absence",
+        "sicknote"
+      ],
+      "de": [
+        "krankmeldung",
+        "urlaub",
+        "abwesenheit",
+        "krankheit"
+      ]
+    }
+  },
+  {
+    "id": "contracts",
+    "nouns": {
+      "nl": [
+        "arbeidsovereenkomst",
+        "addendum",
+        "contract"
+      ],
+      "fr": [
+        "avenant",
+        "contrat",
+        "amendement"
+      ],
+      "en": [
+        "contract",
+        "amendment",
+        "addendum"
+      ],
+      "de": [
+        "arbeitsvertrag",
+        "nachtrag",
+        "änderung"
+      ]
+    }
+  },
+  {
+    "id": "time-registration",
+    "nouns": {
+      "nl": [
+        "prikklok",
+        "tijdsregistratie",
+        "urenstaat"
+      ],
+      "fr": [
+        "pointeuse",
+        "feuille",
+        "temps"
+      ],
+      "en": [
+        "timesheet",
+        "clock",
+        "timeregistration"
+      ],
+      "de": [
+        "zeiterfassung",
+        "stundenzettel",
+        "stempeluhr"
+      ]
+    }
+  },
+  {
+    "id": "tax-social-security",
+    "nouns": {
+      "nl": [
+        "bedrijfsvoorheffing",
+        "rsz",
+        "voorheffing"
+      ],
+      "fr": [
+        "précompte",
+        "onss",
+        "cotisation"
+      ],
+      "en": [
+        "withholding",
+        "social",
+        "security"
+      ],
+      "de": [
+        "lohnsteuer",
+        "sozialversicherung",
+        "abgabe"
+      ]
+    }
+  },
+  {
+    "id": "benefits",
+    "nouns": {
+      "nl": [
+        "maaltijdcheque",
+        "groepsverzekering",
+        "voordeel"
+      ],
+      "fr": [
+        "chèque",
+        "repas",
+        "assurance"
+      ],
+      "en": [
+        "meal",
+        "voucher",
+        "insurance"
+      ],
+      "de": [
+        "essensgutschein",
+        "gruppenversicherung",
+        "vorteil"
+      ]
+    }
+  },
+  {
+    "id": "employee-administration",
+    "nouns": {
+      "nl": [
+        "personeelsdossier",
+        "werknemer",
+        "stamboek"
+      ],
+      "fr": [
+        "dossier",
+        "matricule",
+        "salarié"
+      ],
+      "en": [
+        "employee",
+        "filenumber",
+        "record"
+      ],
+      "de": [
+        "personalakte",
+        "personalnummer",
+        "mitarbeiter"
+      ]
+    }
+  }
+]

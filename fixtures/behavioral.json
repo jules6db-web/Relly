@@ -1,0 +1,198 @@
+{
+  "generatedAt": "2026-06-01T09:00:00.000Z",
+  "minDwellMs": 3000,
+  "terms": [
+    {
+      "term": "avenant",
+      "maxDwellMs": 260000,
+      "documents": [
+        {
+          "documentId": "doc-clarin-contract-amendment",
+          "dwellMs": 260000
+        }
+      ]
+    },
+    {
+      "term": "brutoloon",
+      "maxDwellMs": 200000,
+      "documents": [
+        {
+          "documentId": "doc-houtwerf-payroll-report",
+          "dwellMs": 200000
+        }
+      ]
+    },
+    {
+      "term": "fiche",
+      "maxDwellMs": 300000,
+      "documents": [
+        {
+          "documentId": "doc-clarin-payslip-explainer",
+          "dwellMs": 300000
+        },
+        {
+          "documentId": "doc-clarin-peer-review",
+          "dwellMs": 90000
+        },
+        {
+          "documentId": "doc-clarin-contract-amendment",
+          "dwellMs": 4000
+        }
+      ]
+    },
+    {
+      "term": "lohnsteuer",
+      "maxDwellMs": 90000,
+      "documents": [
+        {
+          "documentId": "doc-keller-lohnsteuer",
+          "dwellMs": 90000
+        }
+      ]
+    },
+    {
+      "term": "loonbrief",
+      "maxDwellMs": 630000,
+      "documents": [
+        {
+          "documentId": "doc-houtwerf-dwell-memo",
+          "dwellMs": 630000
+        },
+        {
+          "documentId": "doc-houtwerf-payroll-report",
+          "dwellMs": 420000
+        },
+        {
+          "documentId": "doc-houtwerf-absence-overview",
+          "dwellMs": 5000
+        },
+        {
+          "documentId": "doc-keller-primary-source",
+          "dwellMs": 3500
+        }
+      ]
+    },
+    {
+      "term": "meal",
+      "maxDwellMs": 180000,
+      "documents": [
+        {
+          "documentId": "doc-northmill-benefits-plan",
+          "dwellMs": 180000
+        },
+        {
+          "documentId": "doc-northmill-poll-dataset",
+          "dwellMs": 6000
+        }
+      ]
+    },
+    {
+      "term": "nettoloon",
+      "maxDwellMs": 200000,
+      "documents": [
+        {
+          "documentId": "doc-houtwerf-payroll-report",
+          "dwellMs": 200000
+        }
+      ]
+    },
+    {
+      "term": "paie",
+      "maxDwellMs": 300000,
+      "documents": [
+        {
+          "documentId": "doc-clarin-payslip-explainer",
+          "dwellMs": 300000
+        },
+        {
+          "documentId": "doc-clarin-peer-review",
+          "dwellMs": 90000
+        },
+        {
+          "documentId": "doc-clarin-contract-amendment",
+          "dwellMs": 4000
+        }
+      ]
+    },
+    {
+      "term": "personeelsdossier",
+      "maxDwellMs": 140000,
+      "documents": [
+        {
+          "documentId": "doc-houtwerf-employee-file",
+          "dwellMs": 140000
+        }
+      ]
+    },
+    {
+      "term": "verlof",
+      "maxDwellMs": 420000,
+      "documents": [
+        {
+          "documentId": "doc-houtwerf-absence-overview",
+          "dwellMs": 420000
+        },
+        {
+          "documentId": "doc-houtwerf-payroll-report",
+          "dwellMs": 12000
+        }
+      ]
+    },
+    {
+      "term": "voucher",
+      "maxDwellMs": 180000,
+      "documents": [
+        {
+          "documentId": "doc-northmill-benefits-plan",
+          "dwellMs": 180000
+        },
+        {
+          "documentId": "doc-northmill-poll-dataset",
+          "dwellMs": 6000
+        }
+      ]
+    },
+    {
+      "term": "withholding",
+      "maxDwellMs": 100000,
+      "documents": [
+        {
+          "documentId": "doc-northmill-withholding",
+          "dwellMs": 100000
+        },
+        {
+          "documentId": "doc-houtwerf-payroll-report",
+          "dwellMs": 20000
+        }
+      ]
+    },
+    {
+      "term": "zeiterfassung",
+      "maxDwellMs": 210000,
+      "documents": [
+        {
+          "documentId": "doc-keller-time-export",
+          "dwellMs": 210000
+        },
+        {
+          "documentId": "doc-keller-primary-source",
+          "dwellMs": 8000
+        }
+      ]
+    },
+    {
+      "term": "ziektebrief",
+      "maxDwellMs": 420000,
+      "documents": [
+        {
+          "documentId": "doc-houtwerf-absence-overview",
+          "dwellMs": 420000
+        },
+        {
+          "documentId": "doc-houtwerf-payroll-report",
+          "dwellMs": 12000
+        }
+      ]
+    }
+  ]
+}

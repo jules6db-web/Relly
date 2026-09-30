@@ -1,0 +1,781 @@
+[
+  {
+    "id": "doc-houtwerf-payroll-report",
+    "title": "Loonrun Houtwerf Lenaerts BV 2024",
+    "language": "nl",
+    "createdAt": "2024-06-01T09:00:00.000Z",
+    "documentType": "official_report",
+    "viewCount": 860,
+    "nounPreview": {
+      "salient": [
+        {
+          "lemma": "loonbrief",
+          "count": 12
+        },
+        {
+          "lemma": "brutoloon",
+          "count": 7
+        },
+        {
+          "lemma": "nettoloon",
+          "count": 6
+        },
+        {
+          "lemma": "loonrun",
+          "count": 5
+        },
+        {
+          "lemma": "bedrijfsvoorheffing",
+          "count": 4
+        },
+        {
+          "lemma": "rsz",
+          "count": 3
+        },
+        {
+          "lemma": "werkgever",
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    "citationDocumentIds": [
+      "doc-clarin-peer-review",
+      "doc-keller-primary-source",
+      "doc-clarin-payslip-explainer"
+    ],
+    "poll": [
+      {
+        "useId": "use-houtwerf-report-01",
+        "respondentId": "rater-hv-01",
+        "rating": 5,
+        "respondentReliability": 0.92
+      },
+      {
+        "useId": "use-houtwerf-report-02",
+        "respondentId": "rater-hv-02",
+        "rating": 5,
+        "respondentReliability": 0.88
+      },
+      {
+        "useId": "use-houtwerf-report-03",
+        "respondentId": "rater-hv-03",
+        "rating": 5,
+        "respondentReliability": 0.85
+      },
+      {
+        "useId": "use-houtwerf-report-04",
+        "respondentId": "rater-hv-04",
+        "rating": 5,
+        "respondentReliability": 0.9
+      }
+    ],
+    "author": {
+      "id": "author-mira-veldhuis",
+      "expertise": 0.92,
+      "authorReliability": 0.88,
+      "reliableProfile": true,
+      "combined": 0.9
+    }
+  },
+  {
+    "id": "doc-houtwerf-payroll-note",
+    "title": "Kladnotitie loonbrief Houtwerf",
+    "language": "nl",
+    "createdAt": "2026-05-31T09:00:00.000Z",
+    "documentType": "unknown",
+    "viewCount": 1,
+    "nounPreview": {
+      "salient": [
+        {
+          "lemma": "kladblok",
+          "count": 6
+        },
+        {
+          "lemma": "notitie",
+          "count": 5
+        },
+        {
+          "lemma": "opmerking",
+          "count": 4
+        },
+        {
+          "lemma": "controle",
+          "count": 4
+        },
+        {
+          "lemma": "nazicht",
+          "count": 3
+        },
+        {
+          "lemma": "versie",
+          "count": 3
+        },
+        {
+          "lemma": "map",
+          "count": 3
+        },
+        {
+          "lemma": "concept",
+          "count": 2
+        },
+        {
+          "lemma": "vraag",
+          "count": 2
+        },
+        {
+          "lemma": "intern",
+          "count": 2
+        }
+      ],
+      "mentions": [
+        {
+          "lemma": "loonbrief",
+          "count": 1
+        }
+      ]
+    },
+    "citationDocumentIds": [],
+    "poll": [],
+    "author": {
+      "id": "author-joost-pellikaan",
+      "expertise": 0.5,
+      "authorReliability": 0.5,
+      "reliableProfile": false,
+      "combined": 0.5
+    }
+  },
+  {
+    "id": "doc-houtwerf-dwell-memo",
+    "title": "Interne memo Houtwerf Lenaerts",
+    "language": "nl",
+    "createdAt": "2025-11-12T09:00:00.000Z",
+    "documentType": "internal_memo",
+    "viewCount": 48,
+    "nounPreview": {
+      "salient": [
+        {
+          "lemma": "vergadering",
+          "count": 6
+        },
+        {
+          "lemma": "opvolging",
+          "count": 5
+        },
+        {
+          "lemma": "planning",
+          "count": 4
+        },
+        {
+          "lemma": "afspraak",
+          "count": 4
+        },
+        {
+          "lemma": "notulen",
+          "count": 3
+        },
+        {
+          "lemma": "actiepunt",
+          "count": 3
+        },
+        {
+          "lemma": "teamoverleg",
+          "count": 3
+        },
+        {
+          "lemma": "agenda",
+          "count": 2
+        },
+        {
+          "lemma": "bespreking",
+          "count": 2
+        },
+        {
+          "lemma": "terugkoppeling",
+          "count": 2
+        }
+      ],
+      "mentions": [
+        {
+          "lemma": "loonbrief",
+          "count": 1
+        }
+      ]
+    },
+    "citationDocumentIds": [],
+    "poll": [],
+    "author": {
+      "id": "author-annelies-droogmans",
+      "expertise": 0.62,
+      "authorReliability": 0.58,
+      "reliableProfile": false,
+      "combined": 0.6
+    }
+  },
+  {
+    "id": "doc-northmill-poll-dataset",
+    "title": "Poll dataset Northmill Components",
+    "language": "en",
+    "createdAt": "2025-09-01T09:00:00.000Z",
+    "documentType": "dataset",
+    "viewCount": 22,
+    "nounPreview": {
+      "salient": [
+        {
+          "lemma": "response",
+          "count": 5
+        },
+        {
+          "lemma": "sample",
+          "count": 4
+        },
+        {
+          "lemma": "export",
+          "count": 3
+        },
+        {
+          "lemma": "column",
+          "count": 2
+        },
+        {
+          "lemma": "rating",
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    "citationDocumentIds": [],
+    "poll": [
+      {
+        "useId": "use-northmill-low-01",
+        "respondentId": "rater-low-01",
+        "rating": 5,
+        "respondentReliability": 0.1
+      },
+      {
+        "useId": "use-northmill-low-02",
+        "respondentId": "rater-low-02",
+        "rating": 5,
+        "respondentReliability": 0.1
+      },
+      {
+        "useId": "use-northmill-low-03",
+        "respondentId": "rater-low-03",
+        "rating": 5,
+        "respondentReliability": 0.1
+      },
+      {
+        "useId": "use-northmill-low-04",
+        "respondentId": "rater-low-04",
+        "rating": 5,
+        "respondentReliability": 0.1
+      },
+      {
+        "useId": "use-northmill-low-05",
+        "respondentId": "rater-low-05",
+        "rating": 5,
+        "respondentReliability": 0.1
+      },
+      {
+        "useId": "use-northmill-low-06",
+        "respondentId": "rater-low-06",
+        "rating": 5,
+        "respondentReliability": 0.1
+      },
+      {
+        "useId": "use-northmill-low-07",
+        "respondentId": "rater-low-07",
+        "rating": 5,
+        "respondentReliability": 0.1
+      },
+      {
+        "useId": "use-northmill-low-08",
+        "respondentId": "rater-low-08",
+        "rating": 5,
+        "respondentReliability": 0.1
+      },
+      {
+        "useId": "use-northmill-low-09",
+        "respondentId": "rater-low-09",
+        "rating": 5,
+        "respondentReliability": 0.1
+      },
+      {
+        "useId": "use-northmill-low-10",
+        "respondentId": "rater-low-10",
+        "rating": 5,
+        "respondentReliability": 0.1
+      },
+      {
+        "useId": "use-northmill-poll-audit",
+        "respondentId": "rater-audit",
+        "rating": 2,
+        "respondentReliability": 0.9
+      },
+      {
+        "useId": "use-northmill-poll-author",
+        "respondentId": "author-karel-bieseman",
+        "rating": 5,
+        "respondentReliability": 0.4
+      },
+      {
+        "respondentId": "rater-nouse",
+        "rating": 5,
+        "respondentReliability": 0.8
+      }
+    ],
+    "author": {
+      "id": "author-karel-bieseman",
+      "expertise": 0.45,
+      "authorReliability": 0.4,
+      "reliableProfile": false,
+      "combined": 0.425
+    }
+  },
+  {
+    "id": "doc-keller-primary-source",
+    "title": "Primärquelle Lohnregeln Keller & Sohn",
+    "language": "de",
+    "createdAt": "2020-06-01T09:00:00.000Z",
+    "documentType": "primary_source",
+    "viewCount": 2,
+    "nounPreview": {
+      "salient": [
+        {
+          "lemma": "lohnabrechnung",
+          "count": 6
+        },
+        {
+          "lemma": "brutto",
+          "count": 4
+        },
+        {
+          "lemma": "netto",
+          "count": 4
+        },
+        {
+          "lemma": "lohnlauf",
+          "count": 3
+        },
+        {
+          "lemma": "gehaltsabrechnung",
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    "citationDocumentIds": [
+      "doc-clarin-peer-review",
+      "cite-external-lohnindex-2018"
+    ],
+    "poll": [],
+    "author": {
+      "id": "author-helena-quist",
+      "expertise": 0.9,
+      "authorReliability": 0.85,
+      "reliableProfile": true,
+      "combined": 0.875
+    }
+  },
+  {
+    "id": "doc-neutral-note",
+    "title": "Neutral office note Northmill",
+    "language": "en",
+    "createdAt": "2026-05-02T09:00:00.000Z",
+    "documentType": "unknown",
+    "viewCount": 12,
+    "nounPreview": {
+      "salient": [
+        {
+          "lemma": "agenda",
+          "count": 3
+        },
+        {
+          "lemma": "meeting",
+          "count": 3
+        },
+        {
+          "lemma": "office",
+          "count": 2
+        },
+        {
+          "lemma": "reminder",
+          "count": 2
+        },
+        {
+          "lemma": "printer",
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    "citationDocumentIds": [],
+    "poll": [],
+    "author": {
+      "id": "author-noor-alderliesten",
+      "expertise": 0.5,
+      "authorReliability": 0.5,
+      "reliableProfile": false,
+      "combined": 0.5
+    }
+  },
+  {
+    "id": "doc-clarin-peer-review",
+    "title": "Revue fiches de paie Atelier Clarin",
+    "language": "fr",
+    "createdAt": "2023-04-12T09:00:00.000Z",
+    "documentType": "peer_reviewed",
+    "viewCount": 140,
+    "nounPreview": {
+      "salient": [
+        {
+          "lemma": "fiche",
+          "count": 6
+        },
+        {
+          "lemma": "paie",
+          "count": 6
+        },
+        {
+          "lemma": "brut",
+          "count": 4
+        },
+        {
+          "lemma": "cotisation",
+          "count": 3
+        },
+        {
+          "lemma": "rémunération",
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    "citationDocumentIds": [
+      "doc-keller-primary-source"
+    ],
+    "poll": [],
+    "author": {
+      "id": "author-camille-houdart",
+      "expertise": 0.91,
+      "authorReliability": 0.86,
+      "reliableProfile": true,
+      "combined": 0.885
+    }
+  },
+  {
+    "id": "doc-clarin-payslip-explainer",
+    "title": "Fiche de paie expliquée Clarin",
+    "language": "fr",
+    "createdAt": "2025-03-01T09:00:00.000Z",
+    "documentType": "official_report",
+    "viewCount": 210,
+    "nounPreview": {
+      "salient": [
+        {
+          "lemma": "fiche",
+          "count": 8
+        },
+        {
+          "lemma": "paie",
+          "count": 8
+        },
+        {
+          "lemma": "brut",
+          "count": 4
+        },
+        {
+          "lemma": "net",
+          "count": 3
+        },
+        {
+          "lemma": "cotisation",
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    "citationDocumentIds": [
+      "doc-clarin-peer-review"
+    ],
+    "poll": [],
+    "author": {
+      "id": "author-ines-marchal",
+      "expertise": 0.78,
+      "authorReliability": 0.74,
+      "reliableProfile": true,
+      "combined": 0.76
+    }
+  },
+  {
+    "id": "doc-keller-time-export",
+    "title": "Zeiterfassung Keller & Sohn",
+    "language": "de",
+    "createdAt": "2025-12-01T09:00:00.000Z",
+    "documentType": "dataset",
+    "viewCount": 64,
+    "nounPreview": {
+      "salient": [
+        {
+          "lemma": "zeiterfassung",
+          "count": 10
+        },
+        {
+          "lemma": "stundenzettel",
+          "count": 4
+        },
+        {
+          "lemma": "stempeluhr",
+          "count": 3
+        }
+      ],
+      "mentions": []
+    },
+    "citationDocumentIds": [],
+    "poll": [],
+    "author": {
+      "id": "author-lukas-brenner",
+      "expertise": 0.7,
+      "authorReliability": 0.66,
+      "reliableProfile": false,
+      "combined": 0.68
+    }
+  },
+  {
+    "id": "doc-northmill-benefits-plan",
+    "title": "Northmill meal voucher plan",
+    "language": "en",
+    "createdAt": "2025-01-20T09:00:00.000Z",
+    "documentType": "official_report",
+    "viewCount": 95,
+    "nounPreview": {
+      "salient": [
+        {
+          "lemma": "meal",
+          "count": 7
+        },
+        {
+          "lemma": "voucher",
+          "count": 7
+        },
+        {
+          "lemma": "insurance",
+          "count": 4
+        }
+      ],
+      "mentions": []
+    },
+    "citationDocumentIds": [],
+    "poll": [],
+    "author": {
+      "id": "author-owen-blake",
+      "expertise": 0.73,
+      "authorReliability": 0.69,
+      "reliableProfile": false,
+      "combined": 0.71
+    }
+  },
+  {
+    "id": "doc-houtwerf-absence-overview",
+    "title": "Afwezigheidsoverzicht Houtwerf Lenaerts",
+    "language": "nl",
+    "createdAt": "2025-08-01T09:00:00.000Z",
+    "documentType": "official_report",
+    "viewCount": 180,
+    "nounPreview": {
+      "salient": [
+        {
+          "lemma": "ziektebrief",
+          "count": 9
+        },
+        {
+          "lemma": "verlof",
+          "count": 6
+        },
+        {
+          "lemma": "afwezigheid",
+          "count": 5
+        },
+        {
+          "lemma": "ziekte",
+          "count": 4
+        },
+        {
+          "lemma": "herstel",
+          "count": 3
+        },
+        {
+          "lemma": "attest",
+          "count": 3
+        },
+        {
+          "lemma": "periode",
+          "count": 3
+        },
+        {
+          "lemma": "planning",
+          "count": 2
+        },
+        {
+          "lemma": "team",
+          "count": 2
+        },
+        {
+          "lemma": "overdracht",
+          "count": 2
+        }
+      ],
+      "mentions": [
+        {
+          "lemma": "loonbrief",
+          "count": 1
+        }
+      ]
+    },
+    "citationDocumentIds": [],
+    "poll": [],
+    "author": {
+      "id": "author-sanne-korteweg",
+      "expertise": 0.8,
+      "authorReliability": 0.77,
+      "reliableProfile": true,
+      "combined": 0.785
+    }
+  },
+  {
+    "id": "doc-clarin-contract-amendment",
+    "title": "Avenant contrat Atelier Clarin",
+    "language": "fr",
+    "createdAt": "2025-06-15T09:00:00.000Z",
+    "documentType": "official_report",
+    "viewCount": 27,
+    "nounPreview": {
+      "salient": [
+        {
+          "lemma": "avenant",
+          "count": 8
+        },
+        {
+          "lemma": "contrat",
+          "count": 5
+        },
+        {
+          "lemma": "amendement",
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    "citationDocumentIds": [],
+    "poll": [],
+    "author": {
+      "id": "author-elodie-vasseur",
+      "expertise": 0.84,
+      "authorReliability": 0.8,
+      "reliableProfile": true,
+      "combined": 0.82
+    }
+  },
+  {
+    "id": "doc-houtwerf-employee-file",
+    "title": "Personeelsdossier EMP-10422",
+    "language": "nl",
+    "createdAt": "2025-02-01T09:00:00.000Z",
+    "documentType": "internal_memo",
+    "viewCount": 40,
+    "nounPreview": {
+      "salient": [
+        {
+          "lemma": "personeelsdossier",
+          "count": 7
+        },
+        {
+          "lemma": "werknemer",
+          "count": 4
+        },
+        {
+          "lemma": "stamboek",
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    "citationDocumentIds": [],
+    "poll": [],
+    "author": {
+      "id": "author-annelies-droogmans",
+      "expertise": 0.62,
+      "authorReliability": 0.58,
+      "reliableProfile": false,
+      "combined": 0.6
+    }
+  },
+  {
+    "id": "doc-northmill-withholding",
+    "title": "Withholding note Northmill Components",
+    "language": "en",
+    "createdAt": "2025-10-08T09:00:00.000Z",
+    "documentType": "official_report",
+    "viewCount": 55,
+    "nounPreview": {
+      "salient": [
+        {
+          "lemma": "withholding",
+          "count": 6
+        },
+        {
+          "lemma": "social",
+          "count": 3
+        },
+        {
+          "lemma": "security",
+          "count": 3
+        }
+      ],
+      "mentions": []
+    },
+    "citationDocumentIds": [],
+    "poll": [],
+    "author": {
+      "id": "author-owen-blake",
+      "expertise": 0.73,
+      "authorReliability": 0.69,
+      "reliableProfile": false,
+      "combined": 0.71
+    }
+  },
+  {
+    "id": "doc-keller-lohnsteuer",
+    "title": "Lohnsteuer Keller & Sohn",
+    "language": "de",
+    "createdAt": "2024-11-20T09:00:00.000Z",
+    "documentType": "official_report",
+    "viewCount": 18,
+    "nounPreview": {
+      "salient": [
+        {
+          "lemma": "lohnsteuer",
+          "count": 6
+        },
+        {
+          "lemma": "sozialversicherung",
+          "count": 4
+        },
+        {
+          "lemma": "abgabe",
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    "citationDocumentIds": [],
+    "poll": [],
+    "author": {
+      "id": "author-lukas-brenner",
+      "expertise": 0.7,
+      "authorReliability": 0.66,
+      "reliableProfile": false,
+      "combined": 0.68
+    }
+  }
+]
